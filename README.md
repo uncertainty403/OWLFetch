@@ -26,7 +26,8 @@
 
 ## Screenshots
 
-![OWLFetch - Screenshots](https://github.com/user-attachments/assets/c3dd2239-2755-4e2c-a7e2-438e19e770c8)
+![Screenshots](https://github.com/user-attachments/assets/93889fcb-5c73-475a-afe0-7c670283ebf6)
+
 
 ## Requirements
 
